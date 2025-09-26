@@ -169,7 +169,7 @@ const TestimonialsSection = () => {
             </div>
             <div className="p-6 bg-white/60 backdrop-blur-sm rounded-2xl shadow-soft">
               <div className="text-3xl font-bold text-navy-primary mb-2">24/7</div>
-              <div className="text-muted-foreground">Customer Support</div>
+              <div className="text-muted-foreground">Customer Support.</div>
             </div>
           </div>
         </div>
